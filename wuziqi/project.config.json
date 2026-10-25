@@ -1,0 +1,40 @@
+{
+  "description": "五子棋",
+  "projectname": "gomoku",
+  "compileType": "game",
+  "appid": "wxa90a64a3ebee2d60",
+  "libVersion": "3.17.4",
+  "setting": {
+    "es6": true,
+    "urlCheck": false,
+    "minified": false,
+    "postcss": false,
+    "coverView": false,
+    "showShadowRootInWxmlPanel": false,
+    "packNpmManually": false,
+    "packNpmRelationList": [],
+    "compileWorklet": false,
+    "uglifyFileName": false,
+    "uploadWithSourceMap": true,
+    "enhance": false,
+    "minifyWXSS": true,
+    "minifyWXML": true,
+    "localPlugins": false,
+    "disableUseStrict": false,
+    "useCompilerPlugins": false,
+    "condition": false,
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    }
+  },
+  "condition": {},
+  "simulatorPluginLibVersion": {},
+  "packOptions": {
+    "ignore": [],
+    "include": []
+  },
+  "isGameTourist": false,
+  "editorSetting": {}
+}
